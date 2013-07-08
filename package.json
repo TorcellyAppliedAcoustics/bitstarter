@@ -1,9 +1,10 @@
 {
-  "name": "node-example",
+  "name": "web"
   "version": "0.0.1",
   "dependencies": {
     "express": "2.5.x"
-  },
+    "fs" : ">= 0.0.1"
+},
   "engines": {
     "node": "0.8.x",
     "npm": "1.1.x"
